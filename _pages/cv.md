@@ -11,24 +11,31 @@ redirect_from:
 
 ### Education
 
-* M.S. at ENS Cachan (Master MVA), Cachan, FRANCE, 2014
-* B.S. at Telecom Bretagne (now IMT Atlantique), Brest, FRANCE, 2012
+* **M.S. at Ecole Normale Superieure de Cachan (Master MVA)**, Cachan, France - _2018-2019_
+  * Reinforcement learning
+  * Processing of 3D Points Cloud
+  * Deep learning for Computer Vision
+* **3rd year at Telecom Paris**, Paris, France - _2018_ 
+  * Master Data Science, Polytechnique
+* **B.S. at Telecom Bretagne (now IMT Atlantique)**, Brest, France - _2017-2018_
+* **`Classes preparatoires`, Lycee Condorcet, MPSI-PSI***, Paris, France - _2017-2015_ 
 
 ### Work experience
 
-* August 2022 - Present: Forward Deployed Software Engineer
-  * Palantir - Implementation of the product and data engineering / analysis
+* August 2022 - Present: Forward Deployed Software Engineer, Palantir
+  * Software Engineering, Data Engineering, Site Reliability
+  * Maintaining cloud / compute infrastructure and data pipelines at clients
 
-* September 2020 - July 2022: Software Engineer - Data
-  * Dataiku - Feature development on the platform
+* September 2020 - July 2022: Software Engineer - Data, Dataiku
+  * Backend development
 
-* Fall 2019: Research intern
-  * GoPro - Automatic exposure (On device algorithm)
+* Fall 2019: Research intern, GoPro
+  * Automatic exposure (On device algorithm)
   
 ### Skills
 
-* PyTorch
-* PySpark
-* Java
 * Python
-  * Flask
+* Spark
+* Java
+* Pytorch
+* GitHub
